@@ -4,4 +4,4 @@
 
 ***Day 2:*** Installing Dart and few of Dart's concepts
 
-***Day 3:*** More on Dart 
+***Day 3:*** Dart: Variable, String, List, Map; Flutter basics
