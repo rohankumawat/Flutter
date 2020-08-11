@@ -6,4 +6,6 @@
 
 ***Day 3:*** Dart: Variable, String, List, Map; Flutter basics
 
+***Day 4:*** Flutter: RunApp, MaterialDesign, Scaffold, Print, Text, AppBar, Icons, IconButton, Images
+
 ***Day 9:*** Dart: Functions, Lambda Function
