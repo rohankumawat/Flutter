@@ -22,4 +22,16 @@ This repository for the sole purpose of maintaining all of my Flutter lessons wi
 
 ***Day 10:*** Card, Lambda function, Alignment: Cross Axis Alignment, Main Axis Alignment, Assets
 
+***Day 11:*** Input Box, How to integrate Flutter with a WebServer (API)
+
+***Day 12:*** CGI, API
+
+***Day 13:*** Future Data type
+
+***Day 14:*** Stateful Widget
+
+***Day 20:***
+
+***Day 21:*** Exceptions, SnackBar, Floating Button, of(context)
+
 ***Day 22 and 23:*** Firebase, Firestore
