@@ -30,6 +30,8 @@ This repository for the sole purpose of maintaining all of my Flutter lessons wi
 
 ***Day 14:*** Stateful Widget
 
+***Day 15:*** Entrepreneurship Session
+
 ***Day 20:***
 
 ***Day 21:*** Exceptions, SnackBar, Floating Button, of(context)
