@@ -32,6 +32,10 @@ This repository for the sole purpose of maintaining all of my Flutter lessons wi
 
 ***Day 15:*** Entrepreneurship Session
 
+***Day 16:*** OpenWeather API
+
+***Day 17:*** Google Maps API
+
 ***Day 20:***
 
 ***Day 21:*** Exceptions, SnackBar, Floating Button, of(context)
