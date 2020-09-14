@@ -41,3 +41,5 @@ This repository for the sole purpose of maintaining all of my Flutter lessons wi
 ***Day 21:*** Exceptions, SnackBar, Floating Button, of(context)
 
 ***Day 22 and 23:*** Firebase, Firestore
+
+***Day 24:***
