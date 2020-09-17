@@ -36,6 +36,10 @@ This repository for the sole purpose of maintaining all of my Flutter lessons wi
 
 ***Day 17:*** Google Maps API
 
+***Day 18:***
+
+***Day 19:***
+
 ***Day 20:***
 
 ***Day 21:*** Exceptions, SnackBar, Floating Button, of(context)
